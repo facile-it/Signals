@@ -1,15 +1,10 @@
 {
-  "commitish" : "0.10.0",
-  "Mac" : [
-    {
-      "name" : "SwiftCheck",
-      "hash" : "218fc7eeb3aebf37332ae63284bf8049a4e0fbc6440e69c7dfe5aab9bdeb1dfe"
-    }
-  ],
+  "commitish" : "0.12.0",
   "iOS" : [
     {
       "name" : "SwiftCheck",
-      "hash" : "0f9cc531703c7758801722311675c91bd5a0be1b64319b546750b162a676fa80"
+      "hash" : "60ed60348052bd8080dd778c4af2b5bbee857285dff4620b0f59afee146fd233",
+      "swiftToolchainVersion" : "5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
     }
   ]
 }
